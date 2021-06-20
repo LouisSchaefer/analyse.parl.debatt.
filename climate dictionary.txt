@@ -1,0 +1,23 @@
+german words:
+"klima*","umwelt*","menschengemacht*","erderwärmung*","anthropogen","treibhaus*", "Fridays for Future", "pariser abkommen","pariser klimakonferenz",
+"pariser klimaabkommen","co2*","co2-*","zwei-grad*","2°*","tipping point","erwärmung*","tierschutz","Recy*","hitzewelle*","überschwemmung*","meeresspiegel*",
+"dürre*","energiewende","ökolog*","ökolandbau*","Trinkwasser","smog*","engerigeeffiz*","hochwasser","luftverschmutz*","feinstaub","grundwasser","methan*","ökosystem*",
+"artenschutz","kohlendioxid*","naturkatarophe*","naturschutz", "emission*","fluorkohlenwasserstoff*","kipppunkt*","aerosol*","bio*","dekarbonisierung*",
+"erneuerbare energie*", "ipcc*","kohlenstoffkreislauf","Ozon*"
+
+french words:
+"climat*", "environnement*", "réchauffement climatique*", "anthropique*", "Effet de serre*","Grève étudiante pour le climat", "Accord de Paris", 
+"Paris Climat Conférence","accord parisien sur le climat","co2*","co2-*","deux-degree*","2°*","deux degree*","points de basculement",
+"bien-être animal","recy*" , "canicule*", "inondation*", "niveau de la mer*", "sécheresse*", "transition énergétique*", "écologique*", 
+"agriculture biologique*", "eau potable", "smog*", "efficacité énergétique","inondation","pollution de l'air*","particules",
+"eau souterraine","méthane*","écosystème*","protection des espèces","dioxyde de carbone*","catastrophe naturelle*",
+"conservation de la nature", "émission*", "fluorocarbone*", "aérosol*", "bio*", "décarbonisation*", "énergie renouvelable*", 
+"ipcc*", "cycle du carbone", "ozone*","clima*", 
+
+italian words: 
+"ambiente*", "provocato dall'uomo*", "riscaldamento globale*", "riscaldamento", "anthropogen*","effetto serra*","venerdì per il futuro","Accordo di Parigi",
+"accordo parigino sul clima","co2*","co2-*","due gradi*","due-gradi*","2°*","punto di non ritorno","riscaldamento*","Protezione degli animali*",
+"raccolta differenziata","ondata di calore*","alluvione*","livello del mare*","siccità*","transizione energetica","ecologico*","agricoltura biologica*",
+"acqua potabile","smog*","efficienza energetica*","alluvione","inquinamento atmosferico*", "polvere fine", "acque sotterranee", "metano*", "ecosistema*", 
+"protezione delle specie", "anidride carbonica*", "catarofe naturale*", "conservazione della natura", "emissione*", "fluorocarbon*" , 
+"punto di svolta*", "aerosol*", "bio*", "decarbonizzazione*", "energia rinnovabile*", "ipcc*", "ciclo del carbonio", "ozono*"
